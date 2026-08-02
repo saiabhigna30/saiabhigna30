@@ -1,3 +1,66 @@
+### 🚀 About Me
+
+🎓 **B.Tech Computer Science Engineering** Student at **ACE Engineering College**  
+📈 CGPA: **9.34**  
+💻 Passionate about Full Stack Development, AI/ML, Networking, and Cloud Technologies  
+🌟 Love building real-world applications that solve practical problems  
+🔭 Currently working on innovative projects in AI and smart systems  
+🌱 Continuously learning modern technologies and development practices  
+
+---
+# 🌱 Featured Projects
+
+## 🌾 Crop Disease Detection System
+
+Developed an AI-powered crop disease detection system that identifies plant diseases from leaf images using deep learning, helping farmers detect diseases early and improve crop health.
+
+### 🔹 Features
+- Disease detection from leaf images
+- Deep learning-based image classification
+- User-friendly web interface
+- Instant prediction with confidence score
+- Supports multiple crop diseases
+
+### 🛠️ Tech Stack
+`Python` `Flask` `TensorFlow` `OpenCV` `HTML` `CSS` `JavaScript`
+
+🔗 https://github.com/saiabhigna30/crop-disease-detection
+
+## 🛡️ Credit Card Fraud Detection System
+
+Developed a machine learning-based fraud detection system that analyzes credit card transactions to identify fraudulent activities in real time, helping improve transaction security and reduce financial losses.
+
+### 🔹 Features
+- Detects fraudulent credit card transactions
+- Machine learning-based classification
+- Data preprocessing and feature engineering
+- Performance evaluation using accuracy, precision, recall, and F1-score
+- Interactive prediction interface
+
+### 🛠️ Tech Stack
+`Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Flask`
+---
+# 💼 Internships
+
+## 🌐 Networking Virtual Internship – Juniper Networks
+- Worked on networking concepts and cloud technologies
+- Learned network architecture and automation fundamentals
+
+---
+# 🏆 Certifications
+
+- ☁️ **Oracle Cloud Infrastructure 2025 Certified DevOps Professional** – Oracle University
+- 🍃 **MongoDB Basics for Students** – MongoDB
+- 🌐 **Cisco Networking Academy**
+  - CCNA (Introduction to Networks, Switching, Routing & Wireless Essentials, Enterprise Networking, Security & Automation)
+  - Python Essentials (Levels 1 & 2)
+  - AI & Data Science (Introduction to Modern AI, Introduction to Data Science, Apply AI: Analyze Customer Reviews)
+  - Getting Started with Cisco Packet Tracer
+- ☁️ **Juniper Networking Virtual Internship (10 Weeks)** – AICTE EduSkills
+- 🤖 **Introduction to Automation** – UiPath Academy
+
+---
+
 <h1 align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=220&section=header&text=Srirangam%20Sai%20Abhigna&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Data%20Management&descAlignY=55&descSize=20" width="100%"/> </h1> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+systems+with+code+and+data;Blending+full-stack+engineering+with+AI" alt="Typing SVG" /> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=saiabhigna30&color=A78BFA&style=flat&label=Profile+Views" alt="Profile Views"/> <img src="https://img.shields.io/github/followers/saiabhigna30?label=Followers&style=flat&color=A78BFA" alt="Followers"/> </p>
 🔗 Connect With Me
 <table align="center"> <tr> <td align="center"><a href="https://linkedin.com/in/srirangam-saiabhigna" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/></a></td> <td align="center"><a href="https://github.com/saiabhigna30" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/></a></td> <td align="center"><a href="mailto:saiabhignasrirangam@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/A78BFA" width="55" height="55" alt="Email"/></a></td> </tr> <tr> <td align="center">LinkedIn</td> <td align="center">GitHub</td> <td align="center">Email</td> </tr> </table> <!-- Add these back in once available: Instagram: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="55" height="55"/> Discord: <img src="https://cdn.simpleicons.org/discord/A78BFA" width="55" height="55"/> Portfolio: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="55" height="55"/> Kaggle: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="55" height="55"/> Resume: <img src="https://cdn.simpleicons.org/googledocs/A78BFA" width="55" height="55"/> -->
