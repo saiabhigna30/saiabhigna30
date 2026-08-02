@@ -192,7 +192,8 @@ Developed an AI-powered crop disease detection system that identifies plant dise
 
 **Tech Stack:** `Python` `Flask` `TensorFlow` `OpenCV` `HTML` `CSS` `JavaScript`
 
-🔗 [github.com/saiabhigna30/crop-disease-detection](https://github.com/saiabhigna30/crop-disease-detection)
+🔗 [github.com/saiabhigna30/crop-disease-detection](https://github.com/saiabhigna30/Crop-Disease-Detection)
+
 
 #### 🛡️ Credit Card Fraud Detection System
 
