@@ -12,6 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=saiabhigna30&color=A78BFA&style=flat&label=Profile+Views" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/saiabhigna30?label=Followers&style=flat&color=A78BFA" alt="Followers"/>
 </p>
+
 ---
 
 ### 🚀 About Me
@@ -32,11 +33,13 @@
     <td align="center"><a href="https://linkedin.com/in/srirangam-saiabhigna" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/></a></td>
     <td align="center"><a href="https://github.com/saiabhigna30" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/></a></td>
     <td align="center"><a href="mailto:saiabhignasrirangam@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/A78BFA" width="55" height="55" alt="Email"/></a></td>
+    <td align="center"><a href="https://github.com/saiabhigna30/saiabhigna30/blob/main/resume.pdf" target="_blank"><img src="https://cdn.simpleicons.org/googledocs/A78BFA" width="55" height="55" alt="Resume"/></a></td>
   </tr>
   <tr>
     <td align="center">LinkedIn</td>
     <td align="center">GitHub</td>
     <td align="center">Email</td>
+    <td align="center">Resume</td>
   </tr>
 </table>
 
@@ -45,7 +48,6 @@ Instagram: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagra
 Discord:   <img src="https://cdn.simpleicons.org/discord/A78BFA" width="55" height="55"/>
 Portfolio: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="55" height="55"/>
 Kaggle:    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="55" height="55"/>
-Resume:    <img src="https://cdn.simpleicons.org/googledocs/A78BFA" width="55" height="55"/>
 -->
 
 ---
@@ -191,8 +193,7 @@ Developed an AI-powered crop disease detection system that identifies plant dise
 
 **Tech Stack:** `Python` `Flask` `TensorFlow` `OpenCV` `HTML` `CSS` `JavaScript`
 
-🔗 [github.com/saiabhigna30/crop-disease-detection](https://github.com/saiabhigna30/Crop-Disease-Detection)
-
+🔗 [github.com/saiabhigna30/crop-disease-detection](https://github.com/saiabhigna30/crop-disease-detection)
 
 #### 🛡️ Credit Card Fraud Detection System
 
